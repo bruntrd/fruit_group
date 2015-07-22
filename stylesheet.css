@@ -17,8 +17,12 @@ img{
 }
 
 .jumbotron{
-	height: 500px;
-background-color: #ffffff;	
+	height: 300px;
+background-color: #ffffff;
+background-image: url("background.png")	;
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 h1{
 	text-align: center;
